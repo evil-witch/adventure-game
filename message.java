@@ -1,3 +1,8 @@
+//First.java  
+import java.applet.Applet;  
+import java.awt.Graphics;  
+public class First extends Applet{ 
+
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.sql.SQLOutput;
@@ -282,3 +287,6 @@ public class CYOC2 {
             catch(Exception e){}
         }
     }
+    
+}
+}
