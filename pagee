@@ -1,0 +1,8 @@
+    <html> 
+    <body> 
+    <h1> hi </h1>
+    <applet code="First.class" width="300" height="300"> 
+    Error java not enabled 
+    </applet> 
+    </body> 
+    </html> 
